@@ -1,0 +1,15 @@
+Las ubicaciones son diferentes tano en linux como en windows, por ejemplo,
+
+En windows no es "env\bin\activate" sino "env\Scripts\activate"
+Tampoco es
+
+/env
+    /lib
+        /dateutil
+
+Sino es
+
+/env
+    /lib
+        /site-packages
+            /dateutil
